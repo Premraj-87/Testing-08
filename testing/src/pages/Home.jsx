@@ -9,7 +9,7 @@ const Home = () => {
           <h1 className="brand">My Simple Home is Good</h1>
           <nav className="nav">
             <a href="#features">Features</a>
-            <a href="#about">About</a>
+            <a href="#About">About</a>
             <a href="#contact">Contact</a>
           </nav>
         </div>
@@ -33,7 +33,7 @@ const Home = () => {
           </div>
         </section>
 
-        <section id="about" className="about container">
+        <section id="About" className="about container">
           <h3>About</h3>
           <p>This is a small demo homepage. Replace text and styles as needed.</p>
         </section>
