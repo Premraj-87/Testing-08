@@ -6,7 +6,7 @@ const Home = () => {
     <div className="home">
       <header className="site-header">
         <div className="container header-inner">
-          <h1 className="brand">My Simple Home</h1>
+          <h1 className="brand">My Simple Home is Good</h1>
           <nav className="nav">
             <a href="#features">Features</a>
             <a href="#about">About</a>
